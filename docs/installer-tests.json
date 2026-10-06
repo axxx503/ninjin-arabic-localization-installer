@@ -1,0 +1,15 @@
+{
+  "direct_installer_compile": "passed",
+  "delta_exact_reconstruction": "passed",
+  "latest_1315_draft_build_install": "passed",
+  "repeat_install": "passed",
+  "exact_uninstall": "passed",
+  "unknown_game_rejected": "passed",
+  "corrupt_backup_rejected": "passed",
+  "unrelated_marker_preserved": "passed",
+  "runtime_visual_test": "not performed",
+  "font_in_test_build": "Saudi-derived glyph bitmaps; original TTF not included; official terms linked in README",
+  "patched_sha256": "086e87e90f1fb7f61ff56b03280e2c7da14bb8deea28b20fa088b0d24f88b200",
+  "delivered_exe_sha256": "1788558c30bc6d52d284296d630b35ee2ab32ebc2dfad7be4148d9b8a5661282",
+  "package_version": "0.2.1"
+}
